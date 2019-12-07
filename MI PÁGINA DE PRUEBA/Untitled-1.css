@@ -1,0 +1,15 @@
+.border1{
+    border-radius: 10px;
+    background: red;
+}
+
+.border2{
+    border-radius: 0 20px;
+    background: blue;
+}
+
+.border3{
+    border-radius: 50%;
+    background: green;
+    
+}
